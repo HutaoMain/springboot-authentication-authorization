@@ -9,7 +9,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/HutaoMain/springboot-authentication-authorization.git
+   git clone https://github.com/HutaoMain/springboot-jwt-authentication-authorization.git
    cd springboot-authentication-authorization
    ```
 
